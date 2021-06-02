@@ -6,12 +6,21 @@ modtime = 1618194042.361137000
 version = 8.0.3
 modtime = 1618194042.363598000
 
-[props/Smart%20Meter%20Texas]
-owner = admin
-version = 8.0.3
-modtime = 1618194733.711367000
-
 [inputs/monitor%3A%2F%2F%2Fdata%2Felectricity-meter]
 owner = admin
 version = 8.0.3
-modtime = 1618194778.520800000
+modtime = 1622648404.230947000
+
+[app/install/install_source_checksum]
+version = 8.0.3
+modtime = 1622619210.869805000
+
+[indexes/electricity-meter]
+owner = admin
+version = 8.0.3
+modtime = 1622648266.415128000
+
+[props/smart-meter-texas-csv]
+owner = admin
+version = 8.0.3
+modtime = 1622648385.301047000
